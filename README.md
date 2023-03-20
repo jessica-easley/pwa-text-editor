@@ -1,4 +1,5 @@
 # Progressive-Web-Application: Text Editor
+This application is a single-page text editor that runs in the browser and meets PWA requirements. This application also features a number of data persistence techniques that serve as redundancy in case one of the options is not supported by the browser. The application also functions offline.
 
 # View Deployed App Here: 
 
@@ -35,6 +36,9 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 
 # Technologies Used
-* JSON
+* Node.js
+* Express.js
 * IndexedDB API
-* Javascript
+* Webpack
+
+# Application Screenshots
