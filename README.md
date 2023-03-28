@@ -43,10 +43,10 @@ THEN I should have proper build scripts for a webpack application
 
 # Application Screenshots
 
-![Homepage of Application](src/images/jate-text-editor.png)
+![Homepage of Application](client/src/images/jate-text-editor.png)
 
-![Manifest](src/images/manifest.png)
+![Manifest](client/src/images/manifest.png)
 
-![Service Worker](src/images/service-worker.png)
+![Service Worker](client/src/images/service-worker.png)
 
-![Cache](src/images/indexDB.png)
+![Cache](client/src/images/indexDB.png)
