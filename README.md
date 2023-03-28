@@ -42,3 +42,11 @@ THEN I should have proper build scripts for a webpack application
 * Webpack
 
 # Application Screenshots
+
+![Homepage of Application](images/jate-text-editor.png)
+
+![Manifest](images/manifest.png)
+
+![Service Worker](images/service-worker.png)
+
+![Cache](images/indexDB.png)

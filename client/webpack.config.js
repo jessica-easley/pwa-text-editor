@@ -20,7 +20,7 @@ module.exports = () => {
     plugins: [
       new HtmlWebpackPlugin({
         template: './index.html',
-        title: 'Jate'
+        title: 'text editor'
       }),
      
       // Injects our custom service worker
@@ -34,8 +34,8 @@ module.exports = () => {
         fingerprints: false,
         inject: true,
         name: 'Just Another Text Editor',
-        short_name: 'Jate',
-        description: 'Notes!',
+        short_name: 'JATE',
+        description: 'text editor',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: './',
